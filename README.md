@@ -44,16 +44,16 @@
 
 7. Let's experiment with a couple more tags. Under the paragraph tag lets make some subheadlines. 
 Type the following: 
-    - `<h2>Subheading 1</h2>`
-    - `<p>Content under subheading 1.</p>`
-    <br>
-    <br>
-    - `<h2>Subheading 2</h2>`
-    - `<p>Content under subheading 2.</p>`
-    <br>
-    <br>
-    - `<h3>Sub-subheading</h3>`
-    - `<p>Content under sub-subheading.</p>`
+    ```html 
+    <h2>Subheading 1</h2>
+    <p>Content under subheading 1.</p>
+   
+    <h2>Subheading 2</h2>
+    <p>Content under subheading 2.</p>
+  
+    <h3>Sub-subheading</h3>
+    <p>Content under sub-subheading.</p>
+    ```
 
 8. Now we have a page with a bit more structure, it's starting to look like something. 
     - Lets add an attribute inside the last paragraph tag. 
